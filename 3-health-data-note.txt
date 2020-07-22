@@ -1,0 +1,2 @@
+The health data either resources or quality was discovered  manually using Excel.
+This is an image for the data  just after downloading it. #continue 

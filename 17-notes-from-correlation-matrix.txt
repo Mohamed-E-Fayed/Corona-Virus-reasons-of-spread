@@ -1,0 +1,9 @@
+From the correlation matrix, we noticed that:
+1. There is a  strong relationship between date and confirmed cases, deaths and recovered.
+2. Deaths is strongly related to confirmed cases.
+3. correlation between total score, reading, maths and science are weakly related to any of confirmed, deaths or recovered.
+4. Weak relation between demography and number of cases.
+5. 
+It is strange that correlation coefficient is extremely high between snow depth and corona virus spread, #death, #recovery. This value is due to the large number of nulls in the column of snwd.
+This is an interesting result that needs investigation later. It should be added to future work.
+

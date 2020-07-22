@@ -1,0 +1,13 @@
+In our search for factors, we learned from news and meetings with doctors on the media that the direct contact among people is the main factor on virus spread. We have tried to get data  that may give any indication about people's interaction among them, but we didn't find.
+That's why we decided to make use of other data, mainly that mentioned in the project statement. We used the data of weather, education, health systems measures and demographic information. 
+These are the resources of data:
+1. Corona virus confirmed cases, deaths and recovered : https://github.com/bumbeishvili/covid19-daily-data?fbclid=IwAR3oKfEBJUSP5XKsB5lUiPdVKDAX2NvcmcsNIjsrr1sYTdajVomIRYFjGis
+2. Weather data: 'https://www.ncei.noaa.gov/data/global-historical-climatology-network-daily/access/'
+3. demography data (manually gathered from worldometer):https://www.worldometers.info/demographics/ 
+e.g. Germany data : https://www.worldometers.info/demographics/germany-demographics/
+4. Education data: 
+• We downloaded the data for education ranking from : https://worldpopulationreview.com/countries/education-rankings-by-country/
+• The most educated countries data source: https://worldpopulationreview.com/countries/most-educated-countries/
+5. Health data: originally from:http://www.oecd.org/els/health-systems/health-data.htm?fbclid=IwAR0iNyYB8KXSwBQrJflc58xeLnf4V4qqhgTi1steCHP8O0jg_y5AM8f4KcY)
+• Health care resources: https://stats.oecd.org/Index.aspx?DataSetCode=HEALTH_REAC#
+• Health care quality indicators: https://stats.oecd.org/Index.aspx?DataSetCode=HEALTH_HCQI

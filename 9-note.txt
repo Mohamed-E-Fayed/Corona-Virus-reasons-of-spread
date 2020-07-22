@@ -1,0 +1,2 @@
+The first line prints the number of nulls which is zero.
+That's why we didn't do preprocessing on the data. We just changed its shape to easily merge it with the other data.

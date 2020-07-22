@@ -1,0 +1,58 @@
+Variable,COU,Country,Value
+Medical graduates,DEU,Germany,9928
+Dentists graduates,DEU,Germany,2192
+Pharmacists graduates,DEU,Germany,2233
+Midwives graduates,DEU,Germany,592
+Nursing graduates,DEU,Germany,45038
+Hospitals,DEU,Germany,3084
+General hospitals,DEU,Germany,1592
+Total hospital beds,DEU,Germany,661448
+Beds in publicly owned hospitals,DEU,Germany,269448
+Medical graduates,ITA,Italy,8032
+Dentists graduates,ITA,Italy,694
+Pharmacists graduates,ITA,Italy,3618
+Midwives graduates,ITA,Italy,822
+Nursing graduates,ITA,Italy,12117
+Hospitals,ITA,Italy,1063
+General hospitals,ITA,Italy,898
+Total hospital beds,ITA,Italy,192548
+Beds in publicly owned hospitals,ITA,Italy,128483
+Medical graduates,GBR,United Kingdom,8500
+Dentists graduates,GBR,United Kingdom,1200
+Pharmacists graduates,GBR,United Kingdom,3510
+Midwives graduates,GBR,United Kingdom,2094
+Nursing graduates,GBR,United Kingdom,20524
+Hospitals,GBR,United Kingdom,1920
+General hospitals,GBR,United Kingdom,760
+Total hospital beds,GBR,United Kingdom,167589
+Beds in publicly owned hospitals,GBR,United Kingdom,167589
+Practising physicians,DEU,Germany,351195
+Generalist medical practitioners,DEU,Germany,21206
+medical group of specialists,DEU,Germany,22632
+Surgical group of specialists,DEU,Germany,111411
+Practising midwives,DEU,Germany,0
+Practising nurses,DEU,Germany,24000
+"Professional nurses, practising",DEU,Germany,1069000
+"Associate Professional nurses, practising",DEU,Germany,902000
+Practising pharmacists,DEU,Germany,97339
+Specialist medical practitioners,DEU,Germany,24119.5
+Practising physicians,ITA,Italy,241512
+Generalist medical practitioners,ITA,Italy,91066.02
+medical group of specialists,ITA,Italy,12209
+Surgical group of specialists,ITA,Italy,87157
+Practising midwives,ITA,Italy,87722
+Practising nurses,ITA,Italy,20311
+"Professional nurses, practising",ITA,Italy,351008
+"Associate Professional nurses, practising",ITA,Italy,351008
+Practising pharmacists,ITA,Italy,49933
+Specialist medical practitioners,ITA,Italy,43731
+medical group of specialists,GBR,United Kingdom,10693
+Surgical group of specialists,GBR,United Kingdom,11914
+Practising midwives,GBR,United Kingdom,46845
+Practising nurses,GBR,United Kingdom,53387
+"Professional nurses, practising",GBR,United Kingdom,54457
+"Associate Professional nurses, practising",GBR,United Kingdom,516930
+Practising pharmacists,GBR,United Kingdom,94072
+Specialist medical practitioners,GBR,United Kingdom,1330000
+Practising physicians,GBR,United Kingdom,49569
+Generalist medical practitioners,GBR,United Kingdom,138726

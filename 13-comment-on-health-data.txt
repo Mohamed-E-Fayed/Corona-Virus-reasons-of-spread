@@ -1,0 +1,2 @@
+The health data (including quality and resources) are filtered and prepared unless small modifications.
+In the following code, we print the data of health after reduction and completing the modifications. 
